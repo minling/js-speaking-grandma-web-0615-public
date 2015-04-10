@@ -1,6 +1,7 @@
 ---
 languages: javascript
-tags: logic, conditions
+tags: logic, condition, function, conditional
+resources: 2
 ---
 
 # Speaking Grandma
@@ -28,3 +29,8 @@ learn
 #to run in the browser
 learn -b
 ```
+
+## Resources
+
+- [W3Schools](http://www.w3schools.com/) - [If/Else Statements](http://www.w3schools.com/js/js_if_else.asp)
+- [W3Schools](http://www.w3schools.com/) - [Functions](http://www.w3schools.com/js/js_functions.asp)

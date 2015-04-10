@@ -2,4 +2,8 @@ languages:
   - javascript
 tags:
   - logic
-  - conditions
+  - condition
+  - function
+  - conditional
+resources:
+  - 2
