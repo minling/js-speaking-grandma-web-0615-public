@@ -1,9 +1,3 @@
----
-languages: javascript
-tags: logic, condition, function, conditional
-resources: 2
----
-
 # Speaking Grandma
 
 Write a speakToGrandma function.
