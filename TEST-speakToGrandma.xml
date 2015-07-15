@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="2" errors="0" failures="0" time="0.004" timestamp="2015-07-15T13:33:19">
+		<testcase classname="speakToGrandma" name="asks you to repeat yourself unless you shout" time="0.002">
+		</testcase>
+		<testcase classname="speakToGrandma" name="responds if you yell" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
